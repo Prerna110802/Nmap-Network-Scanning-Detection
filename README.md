@@ -46,11 +46,11 @@ The logs were examined for relevant indicators such as:
 
 ### Nmap Scan
 
-![Nmap Scan](screenshots/nmap-scan.png)
+![Nmap Scan](screenshots/nmap-scan.jpeg)
 
 ### Windows Logs
 
-![Windows Logs](screenshots/windows-logs.png)
+![Windows Logs](screenshots/windows-logs.jpeg)
 
 ### Log Analysis
 
