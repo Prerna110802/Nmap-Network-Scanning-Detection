@@ -52,10 +52,6 @@ The logs were examined for relevant indicators such as:
 
 ![Windows Logs](screenshots/windows-logs.jpeg)
 
-### Log Analysis
-
-![Log Analysis](screenshots/log-analysis.png)
-
 ## SOC Relevance
 
 Network scanning can be an early indicator of reconnaissance activity.
